@@ -38,14 +38,6 @@
         <li>Analyzing relationships between variables through visualization.</li>
     </ul>
     
-  <h2>Project Structure</h2>
-    <ol>
-        <li><strong>Introduction:</strong> Research background and objective.</li>
-        <li><strong>Data Overview:</strong> Data collection and preprocessing process.</li>
-        <li><strong>Model Design and Results:</strong> Explanation and performance comparison of models used, with final results presented.</li>
-        <li><strong>Conclusion:</strong> Key findings and suggestions for future research.</li>
-    </ol>
-    
   <h2>Conclusions and Implications</h2>
   <h3>Conclusion</h3>
     <p>The Random Forest model demonstrated superior performance in predicting delivery times. This improvement can enhance customer and vendor satisfaction by increasing the accuracy of delivery time estimates.</p>
